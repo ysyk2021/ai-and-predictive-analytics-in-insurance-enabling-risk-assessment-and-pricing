@@ -1,0 +1,6 @@
+[book]
+authors = ["ysykzheng"]
+language = "en"
+multilingual = false
+src = "src"
+title = "AI and Predictive Analytics in Insurance: Enabling Risk Assessment and Pricing"
