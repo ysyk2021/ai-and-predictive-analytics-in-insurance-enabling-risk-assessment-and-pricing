@@ -12,4 +12,4 @@ Finally, we will look at the future directions and challenges associated with im
 
 Overall, this book aims to provide readers with a practical understanding of how AI-based predictive analytics can be leveraged in the insurance industry to improve risk assessment and pricing decisions, prevent fraud, enhance customer service, streamline claims management, and stay ahead of emerging risks and market trends.
 
-MingHai Zheng is a writer based in Wuhan, China, who focuses on writing articles about workplace and management topics. He has written hundreds of articles on these topics and is dedicated to sharing his insights and experiences with others who are interested in improving their careers and their businesses.
+MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
