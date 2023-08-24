@@ -1,5 +1,3 @@
-AI-Based Predictive Analytics Techniques and Strategies
-================================================================
 
 AI-based predictive analytics techniques and strategies are becoming increasingly important in the insurance industry to improve risk assessment and pricing decisions. In this chapter, we will provide an overview of these techniques and strategies.
 

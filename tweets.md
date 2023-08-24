@@ -9,4 +9,3 @@
 9. Interested in learning how AI can help reduce risk and improve profitability in insurance? Look no further than 'AI and Predictive Analytics in Insurance.' #Profitability #RiskReduction
 10. The insurance industry is ripe for disruption with AI and predictive analytics. Be prepared with the insights provided in 'AI and Predictive Analytics in Insurance.' #InsuranceDisruption #AIrevolution
 
-

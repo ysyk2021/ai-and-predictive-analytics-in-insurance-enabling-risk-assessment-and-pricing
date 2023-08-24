@@ -1,5 +1,3 @@
-Overview of Predictive Analytics in Insurance
-=======================================================================================================
 
 Predictive analytics is a powerful tool used in the insurance industry to assess risk and set prices. In this chapter, we will provide an overview of predictive analytics in insurance, including its definition, key components, and how it is used in the insurance industry.
 

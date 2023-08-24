@@ -1,5 +1,3 @@
-Machine Learning and Neural Networks
-======================================================================================================
 
 Machine learning and neural networks are two powerful AI-based predictive analytics techniques that can be used in the insurance industry to gain valuable insights from data. In this chapter, we will explore these techniques and their applications in insurance.
 

@@ -1,5 +1,3 @@
-Objectives and Structure of the Book
-===========================================================
 
 The insurance industry is undergoing a transformation with the adoption of AI-based predictive analytics. The objective of this book is to provide a comprehensive overview of how AI and predictive analytics are enabling risk assessment and pricing in insurance.
 

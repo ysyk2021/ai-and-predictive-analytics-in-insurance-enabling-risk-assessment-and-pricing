@@ -1,5 +1,3 @@
-Overview of Artificial Intelligence and Predictive Analytics in Insurance
-================================================================================================
 
 Artificial intelligence (AI) and predictive analytics are transforming the insurance industry by improving risk assessment and pricing decisions. In this chapter, we will provide an overview of these technologies and their applications in the insurance industry.
 

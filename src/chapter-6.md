@@ -1,5 +1,3 @@
-Implementation of AI-Based Predictive Analytics in Insurance
-=====================================================================
 
 Implementing AI-based predictive analytics in the insurance industry can be complex and challenging. In this chapter, we will provide an overview of the key considerations when implementing AI-based predictive analytics in insurance.
 

@@ -1,5 +1,3 @@
-Case Studies on the Use of AI in Predictive Analytics in Insurance
-=========================================================================================================================================
 
 Artificial intelligence (AI) and predictive analytics are increasingly being used in the insurance industry to improve risk assessment and pricing decisions. In this chapter, we will examine case studies of how AI is being used in predictive analytics in insurance.
 

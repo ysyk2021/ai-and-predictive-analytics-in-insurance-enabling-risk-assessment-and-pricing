@@ -1,5 +1,3 @@
-External Data Sources
-==================================================================================================
 
 In addition to customer and policyholder data and historical claims data, external data sources can provide valuable insights for predictive analytics in insurance. In this chapter, we will explore the types of external data sources that are collected and how this data is analyzed to inform risk assessment and pricing decisions.
 

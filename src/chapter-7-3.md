@@ -1,5 +1,3 @@
-Implications for the Future of Enabling Risk Assessment and Pricing
-==============================================================================================================
 
 As AI-based predictive analytics continue to evolve and become more widely adopted in the insurance industry, there are several implications for the future of enabling risk assessment and pricing. In this chapter, we will explore these implications and the challenges that must be addressed.
 

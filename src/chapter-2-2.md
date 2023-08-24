@@ -1,5 +1,3 @@
-Traditional Approaches to Predictive Analytics in Insurance
-=====================================================================================================================
 
 Traditional approaches to predictive analytics in the insurance industry have relied on actuarial tables and historical data analysis. In this chapter, we will explore these traditional approaches to predictive analytics in insurance and their limitations.
 

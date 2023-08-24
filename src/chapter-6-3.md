@@ -1,5 +1,3 @@
-Integration with Predictive Analytics Processes and Tools
-================================================================================================================================
 
 The successful implementation of AI-based predictive analytics in the insurance industry requires the integration of these technologies with existing predictive analytics processes and tools. In this chapter, we will explore how insurance companies can integrate AI-based predictive analytics with their existing predictive analytics processes and tools.
 

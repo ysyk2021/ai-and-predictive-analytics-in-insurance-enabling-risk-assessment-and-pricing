@@ -1,5 +1,3 @@
-Types of Artificial Intelligence and Their Applications in Predictive Analytics in Insurance
-===================================================================================================================================================================
 
 Artificial intelligence (AI) is a key component of predictive analytics in the insurance industry. In this chapter, we will explore the different types of AI and their applications in predictive analytics in insurance.
 

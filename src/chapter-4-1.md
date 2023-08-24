@@ -1,5 +1,3 @@
-Overview of Data Collection and Analysis for Predictive Analytics in Insurance
-===========================================================================================================================================================
 
 The success of AI-based predictive analytics in the insurance industry relies heavily on data collection and analysis. In this chapter, we will provide an overview of the data collection and analysis process for predictive analytics in insurance.
 

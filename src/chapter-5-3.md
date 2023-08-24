@@ -1,5 +1,3 @@
-Natural Language Processing and Text Mining
-=============================================================================================================
 
 Natural Language Processing (NLP) and Text Mining are two AI-based predictive analytics techniques that can be used in the insurance industry to gain valuable insights from unstructured text data. In this chapter, we will explore these techniques and their applications in the insurance industry.
 

@@ -1,5 +1,3 @@
-Advantages and Limitations of AI in Predictive Analytics in Insurance
-============================================================================================================================================
 
 Artificial intelligence (AI) and predictive analytics are transforming the insurance industry by improving risk assessment and pricing decisions. However, like any technology, AI has both advantages and limitations. In this chapter, we will explore these advantages and limitations.
 

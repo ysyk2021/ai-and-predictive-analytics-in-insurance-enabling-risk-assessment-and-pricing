@@ -1,5 +1,3 @@
-Regulatory and Compliance Data
-===========================================================================================================
 
 In addition to customer and policyholder data and historical claims data, regulatory and compliance data is a critical source of information used in predictive analytics for insurance. In this chapter, we will explore the types of regulatory and compliance data that are collected and how this data is analyzed to ensure compliance with relevant regulations governing the use of customer data.
 

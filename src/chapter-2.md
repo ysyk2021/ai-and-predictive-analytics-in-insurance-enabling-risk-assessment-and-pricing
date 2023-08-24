@@ -1,5 +1,3 @@
-Understanding Predictive Analytics in Insurance
-========================================================
 
 Predictive analytics is the use of statistical algorithms and machine learning techniques to analyze data and make predictions about future events. In the insurance industry, predictive analytics can be used for risk assessment and pricing decisions. In this chapter, we will provide an overview of predictive analytics in insurance, as well as traditional approaches and their limitations.
 

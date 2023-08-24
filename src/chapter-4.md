@@ -1,5 +1,3 @@
-Data Collection and Analysis for Predictive Analytics in Insurance
-===========================================================================
 
 Data collection and analysis are critical components of predictive analytics in the insurance industry. In this chapter, we will provide an overview of the data sources used in predictive analytics and highlight some of the key considerations when collecting and analyzing data.
 

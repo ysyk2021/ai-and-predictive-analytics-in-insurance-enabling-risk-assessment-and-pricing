@@ -1,5 +1,3 @@
-Business Models and Cost-Effectiveness
-=============================================================================================================
 
 The implementation of AI-based predictive analytics in the insurance industry can have significant implications for business models and cost-effectiveness. In this chapter, we will explore how insurance companies can effectively implement AI-based predictive analytics to achieve greater cost-effectiveness while also evolving their business models to remain competitive.
 

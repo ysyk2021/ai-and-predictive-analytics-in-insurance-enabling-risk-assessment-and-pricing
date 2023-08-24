@@ -1,5 +1,3 @@
-Limitations and Challenges of Traditional Approaches
-==============================================================================================================
 
 While traditional approaches to risk assessment and pricing in the insurance industry have been effective, they are not without limitations and challenges. In this chapter, we will explore some of the key limitations and challenges of traditional approaches to risk assessment and pricing and how predictive analytics can help overcome these challenges.
 

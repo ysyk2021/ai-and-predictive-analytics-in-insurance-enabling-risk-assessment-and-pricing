@@ -1,5 +1,3 @@
-Artificial Intelligence in Predictive Analytics in Insurance
-=====================================================================
 
 Artificial intelligence (AI) is transforming the insurance industry, specifically in predictive analytics. In this chapter, we will explore the types of AI used in predictive analytics for insurance, their advantages and limitations, and some case studies on their use.
 

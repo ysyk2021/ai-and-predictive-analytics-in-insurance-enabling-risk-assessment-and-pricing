@@ -1,4 +1,3 @@
-# Conclusion
 
 The adoption of AI-based predictive analytics is transforming the insurance industry by improving risk assessment and pricing decisions. In this book, we have provided a comprehensive overview of how AI and predictive analytics are enabling risk assessment and pricing in insurance.
 

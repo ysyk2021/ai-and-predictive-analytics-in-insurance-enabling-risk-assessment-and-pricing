@@ -1,5 +1,3 @@
-Regulatory and Ethical Considerations
-============================================================================================================
 
 As the insurance industry increasingly adopts AI-based predictive analytics to assess risk and set pricing, it is essential to consider the regulatory and ethical implications of these technologies. In this chapter, we will explore some of the key considerations that insurance companies should take into account when implementing AI-based predictive analytics.
 

@@ -1,5 +1,3 @@
-Simulation Modeling and Optimization
-======================================================================================================
 
 Simulation modeling and optimization are two key AI-based predictive analytics techniques that can be used to improve risk assessment and pricing decisions in the insurance industry. In this chapter, we will explore these techniques in more detail.
 

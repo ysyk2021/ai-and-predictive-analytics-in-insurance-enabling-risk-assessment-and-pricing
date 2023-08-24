@@ -1,5 +1,3 @@
-Historical Claims Data
-===================================================================================================
 
 Another critical source of data used in predictive analytics for insurance is historical claims data. In this chapter, we will explore the types of historical claims data that are collected and how this data is analyzed to inform risk assessment and pricing decisions.
 

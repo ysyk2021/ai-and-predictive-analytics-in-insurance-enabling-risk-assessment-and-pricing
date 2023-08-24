@@ -1,5 +1,3 @@
-Customer and Policyholder Data
-===========================================================================================================
 
 One of the primary sources of data used in predictive analytics for insurance is customer and policyholder data. In this chapter, we will explore the types of customer and policyholder data that are collected and how this data is analyzed to inform risk assessment and pricing decisions.
 
